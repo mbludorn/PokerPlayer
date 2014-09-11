@@ -1,0 +1,6 @@
+C:\Konstantin\Cards\Cards\bin\Debug\Cards.exe.config
+C:\Konstantin\Cards\Cards\bin\Debug\Cards.exe
+C:\Konstantin\Cards\Cards\bin\Debug\Cards.pdb
+C:\Konstantin\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Konstantin\Cards\Cards\obj\Debug\Cards.exe
+C:\Konstantin\Cards\Cards\obj\Debug\Cards.pdb
